@@ -1,0 +1,100 @@
+/*
+selector{
+    prpieded: valor;
+}
+*/
+
+/* estilo del body*/
+body{
+    text-align: center;
+    font-family: sans-serif;
+    background-image: url(../imagenes/imagen\ para\ fonde\ de\ pagina\ web.jpg);
+    background-size: cover;
+}
+
+/* estilo del header */
+.header{
+    text-align: center;
+    padding: 50px;
+   justify-content: center;
+   align-items: center;
+   flex-wrap: nowrap;
+   
+}
+
+/* estilos de titulo/s*/
+.titulo{
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 60px;
+    font-weight: 600px;
+}
+
+/* estilo de los parrafos*/
+p{
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 18px;
+
+
+}
+
+/* estilo de los h2 en eras*/
+.eras h2  {
+    text-align: center;
+         font-size: 30px;
+
+}
+
+/* estilos de los parrafos de eras*/
+.eras p{
+    text-align: center;
+    font-size: 20px;
+}
+ 
+/* estilos de los h2 de historia*/
+.historia h2{
+    text-align: center;
+    font-size: 30px;
+}
+
+/* estilo de los parrafos de historia*/
+.historia p{
+    text-align: center;
+    font-size: 20px;
+}
+
+/* estilos de los botones*/
+
+.boton{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin-top: 15px;
+    text-decoration: none;
+    color: blueviolet;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,58 @@
+/*
+selector{
+    prpieded: valor;
+}
+*/
+
+/* estilos del body*/
+body{
+    background-image: url(../imagenes/imagen\ para\ fonde\ de\ pagina\ web.jpg);
+}
+
+/*estilo del formulario*/
+
+form{
+    
+    max-width: 100%;
+    padding: 10px;
+    border: 5px aqua;
+    text-align: center;
+}
+
+label{
+    background-color: red;
+    color: aqua;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+fieldset{
+    display: flex;
+    align-content: center;
+    align-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-top: 10vh;
+}
+
+input{
+    text-align: center;
+    margin-top: 15px;
+    padding: 10px;
+}
+
+label, input{
+    width: 50%;
+    font-size: large;
+}
+
+
+
+
+
+
+
+
+
+
+

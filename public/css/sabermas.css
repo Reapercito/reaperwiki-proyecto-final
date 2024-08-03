@@ -1,0 +1,100 @@
+/*
+selector{
+    prpieded: valor;
+}
+*/
+
+/*estilo del body */
+body{
+    background-image: url(../imagenes/imagen\ para\ fonde\ de\ pagina\ web.jpg);
+}
+
+/*estilo de los h1, h2, h3 */
+
+h1{
+    margin-left: 15px;
+}
+
+h2{
+    margin-left: 15px;
+}
+
+h3{
+    margin-left: 15px;
+}
+
+
+
+
+/* estilos de los parrafos*/
+p{
+    margin-left: 25px;
+    font-size: 25px;
+    max-width: 100%;
+}
+
+/* estilos de img*/
+.bra{
+   padding: 15px;
+    width: 450px;
+    height: 400px;
+    max-width: 100%;
+
+}
+
+
+.all{
+    padding: 15px;
+    width: 600px;
+    height: 400px;
+    max-width: 100%;
+
+}
+
+.trike{
+  padding: 15px;
+  width: 550px;
+  height: 400px;
+  max-width: 100%;
+
+}
+
+.trex{
+    padding: 15px;
+    width: 550px;
+    height: 300px;
+    max-width: 100%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

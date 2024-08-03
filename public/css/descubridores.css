@@ -1,0 +1,41 @@
+/*
+selector{
+    prpieded: valor;
+}
+*/
+
+/* estilo del body*/
+body{
+    background-image: url(../imagenes/imagen\ para\ fonde\ de\ pagina\ web.jpg);
+}
+
+/* estilo de titulo/s*/
+.titulo{
+    padding: 15px;
+    font-size: 60px;
+}
+
+/* estilo de los parrafos*/
+p{
+    font-size: 35px;
+    padding: 5px;
+}
+
+
+
+/* estilo de la imagen*/
+.img{
+    padding: 30px;
+    width: 500px;
+    height: 250;
+    max-width: 100%;
+
+}
+
+
+
+
+
+
+
+
